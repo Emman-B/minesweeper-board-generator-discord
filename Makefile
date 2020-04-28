@@ -1,5 +1,5 @@
 EXECBIN = minesweeper_boardgen
-SOURCES = main.cpp
+SOURCES = src/main.cpp
 
 all:
 	g++ -std=c++17 -o ${EXECBIN} ${SOURCES}
