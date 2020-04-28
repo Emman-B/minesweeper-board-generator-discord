@@ -1,0 +1,8 @@
+# ignore .vscode directory
+.vscode/
+
+# ignore compiled binary
+minesweeper_boardgen
+
+# ignore generated minesweeper boards
+minesweeper.txt
